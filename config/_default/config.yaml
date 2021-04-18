@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Chihuahua Token # Website name
-baseurl: 'https://chihuahuatoken.netlify.app' # Website URL
+baseurl: 'https://chihuahuatoken.net' # Website URL
 copyright: '© {year} Chihuahua Whisperers' # Footer text, e.g. '© {year} Me'
 
 ############################
